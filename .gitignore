@@ -1,0 +1,5 @@
+# Third party libraries
+node_modules
+
+# Audio files in the public folder
+public
